@@ -208,8 +208,6 @@ predict_image(model, image_index=25, dataset=test_dataset)
 
 ### OUTPUT
 
-## Training Loss
-<img width="580" height="268" alt="Screenshot 2025-11-23 164642" src="https://github.com/user-attachments/assets/de89a5d4-e05f-4ae0-aaf1-6a458017db07" />
 
 ## Validation Loss Vs Iteration Plot
 <img width="843" height="625" alt="Screenshot 2025-11-23 164659" src="https://github.com/user-attachments/assets/96e37ed2-4c4f-4543-9a3a-e6a4f5e455eb" />
@@ -218,7 +216,7 @@ predict_image(model, image_index=25, dataset=test_dataset)
 <img width="1088" height="960" alt="Gemini_Generated_Image_nl2mtfnl2mtfnl2m" src="https://github.com/user-attachments/assets/8cc342fe-2c50-4a9f-9f26-bbcf561f194a" />
 
 ## Classification Report
-<img width="598" height="278" alt="Screenshot 2025-11-23 164746" src="https://github.com/user-attachments/assets/5914c4a5-b96c-4712-986b-0f46e6f6145e" />
+<img width="1472" height="704" alt="Gemini_Generated_Image_ju0ok3ju0ok3ju0o" src="https://github.com/user-attachments/assets/f37c02f7-417d-4bf0-8f8c-cdf3e4022116" />
 
 ### New Sample Data Prediction
 <img width="432" height="500" alt="Screenshot 2025-11-23 164803" src="https://github.com/user-attachments/assets/0ba26252-d931-470f-b609-03623196abed" />
