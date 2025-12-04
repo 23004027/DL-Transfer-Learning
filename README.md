@@ -215,7 +215,7 @@ predict_image(model, image_index=25, dataset=test_dataset)
 <img width="843" height="625" alt="Screenshot 2025-11-23 164659" src="https://github.com/user-attachments/assets/96e37ed2-4c4f-4543-9a3a-e6a4f5e455eb" />
 
 ## Confusion Matrix
-<img width="848" height="754" alt="Screenshot 2025-11-23 164732" src="https://github.com/user-attachments/assets/a0c8ee9f-745a-4c36-8292-5000a3978a3a" />
+<img width="1088" height="960" alt="Gemini_Generated_Image_nl2mtfnl2mtfnl2m" src="https://github.com/user-attachments/assets/8cc342fe-2c50-4a9f-9f26-bbcf561f194a" />
 
 ## Classification Report
 <img width="598" height="278" alt="Screenshot 2025-11-23 164746" src="https://github.com/user-attachments/assets/5914c4a5-b96c-4712-986b-0f46e6f6145e" />
